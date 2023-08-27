@@ -1,6 +1,0 @@
-Создание requirements автоматически
-pip freeze > requirements.txt 
-Для установки тессеракта 
-# import sys, subprocess
-# subprocess.check_call([sys.executable, "-m", "pip", "install", "pytesseract"])
-# import pytesseract
